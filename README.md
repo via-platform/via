@@ -29,3 +29,17 @@ This repository is deliberately empty. It serves as an issue tracker for the Via
 ## Alerts
 
 * Add custom price alerts when a price rises falls above a certain level
+* Customize alert sounds
+
+## Charting
+
+* More indicators & chart types
+* Customization of chart parameters (e.g. line colors, opacity, how many candles to average in an SMA)
+* Share customized charts with others
+* Save a chart template for later
+* Turn on/off crosshairs, chart trading, etc.
+* "Unlock" the chart to scroll x and y axes independently
+
+## Other
+
+* Hide / show table headers based on user preference
